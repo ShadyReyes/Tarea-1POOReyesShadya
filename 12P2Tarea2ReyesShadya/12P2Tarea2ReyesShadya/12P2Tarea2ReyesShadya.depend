@@ -1,0 +1,17 @@
+# depslib dependency file v1.0
+1688394121 source:c:\users\saidc\desktop\chadi\12p2tarea2reyesshadya\12p2tarea2reyesshadya\main.cpp
+	<iostream>
+	<cmath>
+	"Tarea2LibReyes.h"
+
+1688398683 c:\users\saidc\desktop\chadi\12p2tarea2reyesshadya\12p2tarea2reyesshadya\tarea2libreyes.h
+	"Tarea2Lib2Reyes.h"
+	"Tarea2Lib3Reyes.h"
+	<iostream>
+
+1688399359 c:\users\saidc\desktop\chadi\12p2tarea2reyesshadya\12p2tarea2reyesshadya\tarea2lib2reyes.h
+	<iostream>
+
+1688395898 c:\users\saidc\desktop\chadi\12p2tarea2reyesshadya\12p2tarea2reyesshadya\tarea2lib3reyes.h
+	<iostream>
+
